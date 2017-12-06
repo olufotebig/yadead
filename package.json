@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description":
     "Mobile only finance app designed to help small businesses stay alive.",
-  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
