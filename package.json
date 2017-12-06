@@ -1,9 +1,11 @@
 {
   "name": "yadead",
   "version": "1.0.0",
-  "description": "Mobile only finance app designed to help small businesses stay alive.",
+  "description":
+    "Mobile only finance app designed to help small businesses stay alive.",
   "scripts": {
-    "start": "brunch watch --server",
+    "start":
+      "brunch watch & browser-sync start --server 'public' --files 'public'",
     "build": "brunch build --production",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
