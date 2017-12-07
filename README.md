@@ -1,6 +1,6 @@
 # YaDead?
 
-Mobile only finance app designed to help small businesses stay alive.
+Finance app designed to help small businesses stay alive.
 
 # License
 
