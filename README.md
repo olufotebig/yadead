@@ -1,4 +1,4 @@
-# YaDead
+# YaDead?
 
 Mobile only finance app designed to help small businesses stay alive.
 
